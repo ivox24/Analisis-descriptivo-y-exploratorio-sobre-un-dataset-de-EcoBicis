@@ -1,4 +1,4 @@
-# Análisis descriptivo y exploratorio sobre un dataset del uso de EcoBicis
+# Análisis descriptivo y exploratorio sobre un dataset del uso de EcoBicis en Argentina
 Trabajo Práctico 1 de la materia Laboratorio de Datos (2do cuatrimestre 2023) sobre el reporte de un dataset sobre el uso de EcoBicis, donde se hace un Análisis Descriptivo y Exploratorio para encontrar tendencias y patrones en los datos.
 
 # Objetivo
